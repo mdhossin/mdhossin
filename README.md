@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdhossin" alt="mdhossin" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript and Next Js**
 
 - 👨‍💻 All of my projects are available at [https://sahadat-portfolio.netlify.app/](https://sahadat-portfolio.netlify.app/)
 
