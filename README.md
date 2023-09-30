@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **TypeScript and Next Js**
 
-- 👨‍💻 All of my projects are available at [https://sahadat-portfolio.netlify.app/](https://sahadat-portfolio.netlify.app/)
-
 - 💬 Ask me about **React, Css, Node js**
 
 - 📫 How to reach me **mdsahadathossin778@gmail.com**
